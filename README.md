@@ -20,5 +20,3 @@ After downloading the dataset, you can import it into your Google Colab environm
 
 3. **Run the SVR Program:**
    - After importing the dataset, execute the SVR program to evaluate the model on power consumption data.
-
-Feel free to modify the instructions above for clarity and make sure to use easily understandable English.
